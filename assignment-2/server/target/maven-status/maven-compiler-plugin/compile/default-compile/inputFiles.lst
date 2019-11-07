@@ -1,0 +1,16 @@
+/Users/wushangzhen/Desktop/distribute_system/server/src/main/java/model/SkierVerticalResorts.java
+/Users/wushangzhen/Desktop/distribute_system/server/src/main/java/Servlets/SkierServlet.java
+/Users/wushangzhen/Desktop/distribute_system/server/src/main/java/constant/SQLConstant.java
+/Users/wushangzhen/Desktop/distribute_system/server/src/main/java/model/ResponseMsg.java
+/Users/wushangzhen/Desktop/distribute_system/server/src/main/java/model/Resort.java
+/Users/wushangzhen/Desktop/distribute_system/server/src/main/java/databases/LiftRideDao.java
+/Users/wushangzhen/Desktop/distribute_system/server/src/main/java/databases/DBConnectServer.java
+/Users/wushangzhen/Desktop/distribute_system/server/src/main/java/Servlets/ResortsServlet.java
+/Users/wushangzhen/Desktop/distribute_system/server/src/main/java/model/ResortsList.java
+/Users/wushangzhen/Desktop/distribute_system/server/src/main/java/databases/DbWrite.java
+/Users/wushangzhen/Desktop/distribute_system/server/src/main/java/model/SeasonsList.java
+/Users/wushangzhen/Desktop/distribute_system/server/src/main/java/Servlets/StatisticsServlet.java
+/Users/wushangzhen/Desktop/distribute_system/server/src/main/java/utils/ReqResUtils.java
+/Users/wushangzhen/Desktop/distribute_system/server/src/main/java/model/StatisticsResult.java
+/Users/wushangzhen/Desktop/distribute_system/server/src/main/java/model/SkierVertical.java
+/Users/wushangzhen/Desktop/distribute_system/server/src/main/java/model/LiftRide.java

@@ -1,0 +1,16 @@
+model/ResortsList.class
+Servlets/StatisticsServlet.class
+databases/DBConnectServer.class
+Servlets/SkierServlet.class
+constant/SQLConstant.class
+model/ResponseMsg.class
+utils/ReqResUtils.class
+model/LiftRide.class
+model/SeasonsList.class
+databases/LiftRideDao.class
+databases/DbWrite.class
+model/StatisticsResult.class
+model/SkierVertical.class
+model/Resort.class
+Servlets/ResortsServlet.class
+model/SkierVerticalResorts.class
